@@ -56,6 +56,10 @@ cp -r ui-ux-pro-max-skill/.claude/skills/ui-ux-pro-max ~/.claude/skills/
 
 필요한 것만 `~/.claude/skills/`에 넣으면 모든 프로젝트에서 잡힙니다.
 
+> **복제본 주의.** 이름과 설명(스타일 84종·팔레트 192개·폰트 74쌍…)이 거의 같은
+> 파생 저장소가 여럿 있습니다. 예: `nicohodt/claude-code-ui-ux-skill`(⭐5).
+> 설치는 반드시 원본 `nextlevelbuilder/ui-ux-pro-max-skill`(⭐129,092)에서 합니다.
+
 ### 직접 조회해보기
 
 ```bash
